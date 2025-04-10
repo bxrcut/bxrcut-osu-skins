@@ -1,4 +1,4 @@
-# bxrcut-skins
+# bxrcut osu skins
 
 ---
 
