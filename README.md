@@ -1,5 +1,6 @@
 # bxrcut osu skins
-
+---
+my discord: brrcut
 ---
 
 # [TYPICAL BXRCUT SKIN](https://drive.google.com/file/d/1ZkFiCJhGIsp1vBh3Sim26JlhWr2fy0pd/view?usp=sharing)
